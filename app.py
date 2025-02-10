@@ -1,6 +1,7 @@
 import os
 import pickle
 import streamlit as st
+import streamlit_option_menu
 from streamlit_option_menu import option_menu
 
 # Set page configuration
